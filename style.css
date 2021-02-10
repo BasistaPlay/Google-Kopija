@@ -49,18 +49,18 @@ input[type=text]{
 color: #444;
 text-decoration: none;
 top: 10px;
-left: -80px;
+left: -100px;
 position: relative;
 margin: 5px;
 }
 .poga{
     position: relative;
-    top: 550px;
-    left: 40px;
+    top: 525px;
+    left: -5px;
     text-align: center;
 }
 input[type="button"]{
-    background: #ebe8e8;
+    background: #e8eaeb;
     border: none;
     padding: 8px 20px;
     margin: 10px;
@@ -72,4 +72,16 @@ input[type="button"]:hover{
     background: #ede8e8;
     color: #000;
     box-shadow: 0 0 2px #000;
+}
+.izvelne{
+    position: absolute;
+    top: 4%;
+    left: 96%;
+    transform: translate(-55%,-100%);
+}
+
+.ieiet{
+    position: absolute;
+    top: 0%;
+    left: 97%;
 }
