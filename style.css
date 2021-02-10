@@ -1,13 +1,17 @@
 
 input[type=text]{
-    width:500%;
-    border:2px solid #aaa;
-    border-radius:4px;
+    width: 200%;
+    height: 300%;
+    border:1px solid #aaa;
+    border-radius:50px;
     margin:8px 0;
     outline:none;
     padding:8px;
     box-sizing:border-box;
     transition:.3s;
+    padding-left : 50px;
+    padding-right: 50px;
+    font-size: 18px;
     
   }
   
@@ -20,12 +24,33 @@ input[type=text]{
       position: absolute;
       top: 50%;
       left: 50%;
-      transform: translate(-250%,-0%);
+      transform: translate(-105%,-0%);
   }
   .google
   {
       position: absolute;
       top: 50%;
       left: 50%;
-      transform: translate(-50%,-100%);
+      transform: translate(-55%,-100%);
+  }
+  .Gmail
+  {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(900%,-2600%);
+  }
+  .lupa
+  {
+      position: absolute;
+      top: 1000%;
+      left: -1300%;
+      transform: translate(-30%,1045%);
+  }
+  .button
+  {
+      position: absolute;
+      top: 1000%;
+      left: -1300%;
+      transform: translate(-30%,1045%);
   }
