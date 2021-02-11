@@ -55,7 +55,7 @@ margin: 5px;
 }
 .poga{
     position: relative;
-    top: 500px;
+    top: 530px;
     left: 35px;
     text-align: center;
 }
@@ -109,4 +109,19 @@ input[type="button"]:hover{
     margin-left: 15px;
     text-decoration: none;
     font-family: arial;
+}
+.mikrafons
+{
+    position: absolute;
+    top: 48.7%;
+    left: 64.5%;
+    transform: translate(-30%,100%);
+}
+.Piedavajums{
+    position: absolute;
+      top: 62%;
+      left: 59%;
+      transform: translate(-105%,-0%);
+      font-family: arial;
+      text-decoration: none;
 }
