@@ -2,8 +2,8 @@
     position: absolute;
     margin-top: 18px;
     margin-left: 15px;
-    width: 92px;
-    height: 32px;
+    width: 120px;
+    height: 40px;
     cursor: pointer;
 }
 
@@ -33,9 +33,9 @@
     cursor: pointer;
     border: none;
     margin-left: 91.5%;
-    margin-top: 8px;
-    width: 27px;
-    height: 24px;
+    margin-top: 20px;
+    width: 25px;
+    height: 25px;
 }
 
 .aplis:hover {
@@ -47,7 +47,7 @@
     position: absolute;
     border: none;
     margin-left: 93.5%;
-    margin-top: 0px;
+    margin-top: 15px;
     width: 96px;
     height: 36px;
     background-color: #1a73e8;
@@ -300,128 +300,6 @@
     text-decoration: underline;
 }
 
-.borders {
-    position: absolute;
-    border: 1px solid #dadce0;
-    width: 600px;
-    height: 120px;
-    margin-left: 170px;
-    margin-top: 310px;
-    border-radius: 8px;
-}
-
-.rvt-linki-position {
-    position: absolute;
-    height: 50px;
-    margin-top: 275px;
-    margin-left: 170px;
-    text-decoration: none;
-}
-
-.rvt-linki-pogas {
-    font-size: 16px;
-    color: #1a0dab;
-}
-
-.rvt-linki-visited:visited {
-    color: #609;
-}
-
-.rvt-linki-hover:hover {
-    border-bottom: 1px solid;
-}
-
-.Mekle-ari {
-    color: rgba(0, 0, 0, .57);
-    margin: 12px 20px;
-    font-weight: bold;
-    font-family: arial, sans-serif;
-    font-size: 14px;
-}
-
-.timetable {
-    position: absolute;
-    color: #1a0dab;
-    font-family: arial, sans-serif;
-    font-size: 14px;
-    margin-top: 0px;
-    margin-left: 20px;
-    text-decoration: none;
-}
-
-.timetable:hover {
-    text-decoration: underline;
-}
-
-.e-studijas {
-    position: absolute;
-    color: #1a0dab;
-    font-family: arial, sans-serif;
-    font-size: 14px;
-    margin-top: 25px;
-    margin-left: 20px;
-    text-decoration: none;
-}
-
-.e-studijas:hover {
-    text-decoration: underline;
-}
-
-.profesijas {
-    position: absolute;
-    color: #1a0dab;
-    font-family: arial, sans-serif;
-    font-size: 14px;
-    margin-top: 50px;
-    margin-left: 20px;
-    text-decoration: none;
-}
-
-.profesijas:hover {
-    text-decoration: underline;
-}
-
-.konsultācijas {
-    position: absolute;
-    color: #1a0dab;
-    font-family: arial, sans-serif;
-    font-size: 14px;
-    margin-top: 0px;
-    margin-left: 220px;
-    text-decoration: none;
-}
-
-.konsultācijas:hover {
-    text-decoration: underline;
-}
-
-.stipendijas {
-    position: absolute;
-    color: #1a0dab;
-    font-family: arial, sans-serif;
-    font-size: 14px;
-    margin-top: 25px;
-    margin-left: 220px;
-    text-decoration: none;
-}
-
-.stipendijas:hover {
-    text-decoration: underline;
-}
-
-.nodalja {
-    position: absolute;
-    color: #1a0dab;
-    font-family: arial, sans-serif;
-    font-size: 14px;
-    margin-top: 50px;
-    margin-left: 220px;
-    text-decoration: none;
-}
-
-.nodalja:hover {
-    text-decoration: underline;
-}
 
 .poga3 {
     border: 1px solid #dadce0;
@@ -440,3 +318,374 @@
     margin-left: 15px;
     font-size: 16px;
 }
+
+.linkss {
+    position: absolute;
+    color: #202124;
+    font-size: 14px;
+    margin-left: 170px;
+    margin-top: 520px;
+    font-family: arial, sans-serif;
+}
+
+.linkss2 {
+    position: absolute;
+    font-family: arial, sans-serif;
+    font-size: 20px;
+    margin-left: 170px;
+    text-decoration: none;
+    margin-top: 550px;
+}
+
+.borderr {
+    position: absolute;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    width: 600px;
+    height: 70px;
+    margin-top: 580px;
+    margin-left: 170px;
+    color: #4d5156;
+    line-height: 1.4;
+}
+
+.Stundusaraksts {
+    position: absolute;
+    font-family: arial, sans-serif;
+    font-size: 20px;
+    margin-left: 200px;
+    text-decoration: none;
+    margin-top: 280px;
+}
+
+.saraksts-border {
+    position: absolute;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    width: 210px;
+    height: 70px;
+    margin-top: 305px;
+    margin-left: 200px;
+    color: #4d5156;
+    line-height: 1.4;
+}
+.Kontakti {
+    position: absolute;
+    font-family: arial, sans-serif;
+    font-size: 20px;
+    margin-left: 200px;
+    text-decoration: none;
+    margin-top: 355px;
+}
+
+.kontaktu-border {
+    position: absolute;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    width: 210px;
+    height: 70px;
+    margin-top: 380px;
+    margin-left: 200px;
+    color: #4d5156;
+    line-height: 1.4;
+}
+
+.Profesijas {
+    position: absolute;
+    font-family: arial, sans-serif;
+    font-size: 20px;
+    margin-left: 200px;
+    text-decoration: none;
+    margin-top: 430px;
+}
+
+.Profesijas-border {
+    position: absolute;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    width: 210px;
+    height: 70px;
+    margin-top: 455px;
+    margin-left: 200px;
+    color: #4d5156;
+    line-height: 1.4;
+}
+
+.Uzņemšana {
+    position: absolute;
+    font-family: arial, sans-serif;
+    font-size: 20px;
+    margin-left: 470px;
+    text-decoration: none;
+    margin-top: 280px;
+}
+
+.Uzņemšana-border {
+    position: absolute;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    width: 210px;
+    height: 70px;
+    margin-top: 305px;
+    margin-left: 470px;
+    color: #4d5156;
+    line-height: 1.4;
+}
+
+.PIKC {
+    position: absolute;
+    font-family: arial, sans-serif;
+    font-size: 20px;
+    margin-left: 470px;
+    text-decoration: none;
+    margin-top: 355px;
+}
+
+.PIKC-border {
+    position: absolute;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    width: 210px;
+    height: 70px;
+    margin-top: 380px;
+    margin-left: 470px;
+    color: #4d5156;
+    line-height: 1.4;
+}
+.Par_mums {
+        position: absolute;
+        font-family: arial, sans-serif;
+        font-size: 20px;
+        margin-left: 470px;
+        text-decoration: none;
+        margin-top: 430px;
+    }
+    
+.Par_mums-border {
+        position: absolute;
+        font-family: arial, sans-serif;
+        font-size: 14px;
+        width: 210px;
+        height: 70px;
+        margin-top: 455px;
+        margin-left: 470px;
+        color: #4d5156;
+        line-height: 1.4;
+    }
+
+.Facebook {
+        position: absolute;
+        color: #202124;
+        font-size: 14px;
+        margin-left: 170px;
+        margin-top: 640px;
+        font-family: arial, sans-serif;
+    }
+    
+.facebook2 {
+        position: absolute;
+        font-family: arial, sans-serif;
+        font-size: 20px;
+        margin-left: 170px;
+        text-decoration: none;
+        margin-top: 670px;
+    }
+.facebook-border {
+        position: absolute;
+        font-family: arial, sans-serif;
+        font-size: 14px;
+        width: 600px;
+        height: 70px;
+        margin-top: 700px;
+        margin-left: 170px;
+        color: #4d5156;
+        line-height: 1.4;
+    }
+.borders {
+        position: absolute;
+        border: 1px solid #dadce0;
+        width: 600px;
+        height: 120px;
+        margin-left: 170px;
+        margin-top: 750px;
+        border-radius: 8px;
+    }
+.Mekle-ari {
+        color: rgba(0, 0, 0, .57);
+        margin: 12px 20px;
+        font-weight: bold;
+        font-family: arial, sans-serif;
+        font-size: 14px;
+    }
+
+.rtp {
+        position: absolute;
+        color: #1a0dab;
+        font-family: arial, sans-serif;
+        font-size: 14px;
+        margin-top: 0px;
+        margin-left: 20px;
+        text-decoration: none;
+    }
+    
+    .rtp:hover {
+        text-decoration: underline;
+    }
+    
+    .sports {
+        position: absolute;
+        color: #1a0dab;
+        font-family: arial, sans-serif;
+        font-size: 14px;
+        margin-top: 25px;
+        margin-left: 20px;
+        text-decoration: none;
+    }
+    
+    .sports:hover {
+        text-decoration: underline;
+    }
+    
+    .politehnikums {
+        position: absolute;
+        color: #1a0dab;
+        font-family: arial, sans-serif;
+        font-size: 14px;
+        margin-top: 50px;
+        margin-left: 20px;
+        text-decoration: none;
+    }
+    
+    .politehnikums:hover {
+        text-decoration: underline;
+    }
+    
+    .salidojums {
+        position: absolute;
+        color: #1a0dab;
+        font-family: arial, sans-serif;
+        font-size: 14px;
+        margin-top: 0px;
+        margin-left: 270px;
+        text-decoration: none;
+    }
+    
+    .salidojums:hover {
+        text-decoration: underline;
+    }
+    
+    .rvtp {
+        position: absolute;
+        color: #1a0dab;
+        font-family: arial, sans-serif;
+        font-size: 14px;
+        margin-top: 25px;
+        margin-left: 270px;
+        text-decoration: none;
+    }
+    
+    .rvtp:hover {
+        text-decoration: underline;
+    }
+    
+    .gadi {
+        position: absolute;
+        color: #1a0dab;
+        font-family: arial, sans-serif;
+        font-size: 14px;
+        margin-top: 50px;
+        margin-left: 270px;
+        text-decoration: none;
+    }
+    
+    .gadi:hover {
+        text-decoration: underline;
+    }
+
+    #apakša {
+        width: 100%;
+        height: -70px;
+        position: absolute;
+        bottom: 0;
+        background: #f5f5f5;
+    }
+    .apaksa{
+        color: #585858;
+        padding: 8px;
+        margin-left: 17px;
+        text-decoration: none;
+        font-family: arial;
+    
+    }
+
+    .line2 {
+        width: 1903px;
+        position: absolute;
+        margin-left: -10px;
+        margin-top: -10px;
+        border: 0.5px solid #d3d3d3;
+    }
+
+    .beigas{
+        margin-left: 400px;
+        margin-top: 880px;
+    }
+
+    .Adrese{
+        font-family: Arial;
+        height: 100px;
+        margin-top: 5px;
+        margin-left: 15px;
+        font-size: 16px;
+        text-decoration: none;
+    }
+    .adresee{
+        text-decoration: none;
+    }
+
+    .laiks{
+        font-family: Arial;
+        height: 100px;
+        margin-top: -70px;
+        margin-left: 15px;
+        font-size: 16px;
+        text-decoration: none;
+    }
+    .laikss{
+        text-decoration: none;
+    }
+    .Valsts{
+        font-family: Arial;
+        height: 100px;
+        margin-top: -70px;
+        margin-left: 15px;
+        font-size: 16px;
+        text-decoration: none;
+    }
+    .Valstss{
+        text-decoration: none;
+    }
+
+    .numurs{
+        font-family: Arial;
+        height: 100px;
+        margin-top: -70px;
+        margin-left: 15px;
+        font-size: 16px;
+        text-decoration: none;
+    }
+    .numurss{
+        text-decoration: none;
+    }
+
+    .datums{
+        font-family: Arial;
+        height: 100px;
+        margin-top: -70px;
+        margin-left: 15px;
+        font-size: 16px;
+        text-decoration: none;
+    }
+    .datumss{
+        text-decoration: none;
+    }
